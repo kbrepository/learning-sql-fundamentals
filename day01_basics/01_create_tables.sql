@@ -1,4 +1,7 @@
--- Day 1: Create base tables
+.print
+.print ── Day 1 / Script 01: Create tables
+.print
+
 -- Day 1: create base tables
 CREATE TABLE IF NOT EXISTS expenses (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
