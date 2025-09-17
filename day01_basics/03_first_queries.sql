@@ -1,3 +1,10 @@
+.print
+.print ── Day 1 / Script 03: First SELECT queries
+.print
+
+.headers on
+.mode box
+
 -- sanity checks
 SELECT COUNT(*) AS total_rows FROM expenses;
 SELECT * FROM expenses LIMIT 5;
