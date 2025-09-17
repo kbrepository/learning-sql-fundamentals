@@ -1,0 +1,5 @@
+-- Run these *from the sqlite3 shell*:
+-- .mode csv
+-- .headers on
+-- .import --skip 1 common/datasets/expenses.csv expenses
+-- (If you imported into a temp table like expenses_raw, then copy into expenses.)

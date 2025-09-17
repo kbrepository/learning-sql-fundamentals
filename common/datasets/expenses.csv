@@ -1,0 +1,11 @@
+date,category,subcategory,description,amount,type
+2025-09-01,Food,Lunch,Subway Sandwich,150,Expense
+2025-09-01,Transport,Cab,Ola Ride,250,Expense
+2025-09-01,Salary,Job,Monthly Salary,55000,Income
+2025-09-02,Shopping,Clothes,T-Shirt Purchase,799,Expense
+2025-09-03,Food,Dinner,Pizza Order,320,Expense
+2025-09-03,Subscriptions,Netflix,Monthly Netflix,499,Expense
+2025-09-04,Grocery,Vegetables,Local market,580,Expense
+2025-09-05,Bills,Electricity,Light bill payment,1450,Expense
+2025-09-05,Shopping,Online,Amazon order,1299,Expense
+2025-09-06,Entertainment,Movies,Inox ticket,350,Expense
