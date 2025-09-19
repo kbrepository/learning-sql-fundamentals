@@ -1,11 +1,21 @@
 date,category,subcategory,description,amount,type
-2025-09-01,Food,Lunch,Subway Sandwich,150,Expense
-2025-09-01,Transport,Cab,Ola Ride,250,Expense
-2025-09-01,Salary,Job,Monthly Salary,55000,Income
-2025-09-02,Shopping,Clothes,T-Shirt Purchase,799,Expense
-2025-09-03,Food,Dinner,Pizza Order,320,Expense
-2025-09-03,Subscriptions,Netflix,Monthly Netflix,499,Expense
-2025-09-04,Grocery,Vegetables,Local market,580,Expense
-2025-09-05,Bills,Electricity,Light bill payment,1450,Expense
-2025-09-05,Shopping,Online,Amazon order,1299,Expense
-2025-09-06,Entertainment,Movies,Inox ticket,350,Expense
+2025-09-01,Food,Lunch,Subway sandwich,150,Expense
+2025-09-01,Transport,Cab,Ola ride,250,Expense
+2025-09-01,Salary,Job,Monthly salary,55000,Income
+2025-09-02,Shopping,Clothes,T-shirt purchase,799,Expense
+2025-09-02,Food,Snacks,Evening snacks,120,Expense
+2025-09-03,Bills,Electricity,Monthly bill,1450,Expense
+2025-09-03,Food,Dinner,Veg thali,180,Expense
+2025-09-04,Transport,Metro,Metro card recharge,200,Expense
+2025-09-04,Entertainment,Movies,Movie ticket,350,Expense
+2025-09-05,Health,Pharmacy,Medicines,420,Expense
+2025-09-05,Food,Breakfast,Idli + chai,90,Expense
+2025-09-06,Utilities,Internet,Monthly broadband,799,Expense
+2025-09-06,Food,Lunch,Office canteen,130,Expense
+2025-09-07,Rent,Home,September rent,18000,Expense
+2025-09-07,Food,Snacks,Samosa,60,Expense
+2025-09-08,Shopping,Groceries,Monthly groceries,2350,Expense
+2025-09-08,Transport,Cab,Airport drop,520,Expense
+2025-09-09,Misc,Gift,Birthday gift,700,Expense
+2025-09-09,Food,Dinner,Paneer tikka,260,Expense
+2025-09-10,Investment,Interest,Savings interest,250,Income
