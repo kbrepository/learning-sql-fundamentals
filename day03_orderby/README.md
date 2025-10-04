@@ -1,5 +1,5 @@
 ## Execution Steps SQLite
-From your repo root:
+### From your repo root:
 
 ```
 cd learning-sql-fundamentals
