@@ -1,9 +1,9 @@
 ## Execution Steps SQLite
 From your repo root:
 
-cd learning-sql-fundamentals
+```cd learning-sql-fundamentals
 sqlite3 expenses.db
-
+```
 ## Inside he SQLite prompt, run each script with .read
 .headers on
 .mode box
